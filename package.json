@@ -1,0 +1,8 @@
+{
+  "name": "solar05",
+  "lockfileVersion": 2,
+  "private": true,
+  "dependencies": {
+    "dracula-ui": "*"
+  }
+}
